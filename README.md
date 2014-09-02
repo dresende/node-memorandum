@@ -1,5 +1,8 @@
 ## Memorandum
 
+[![](https://badge.fury.io/js/memorandum.svg)](https://npmjs.org/package/memorandum)
+[![](https://gemnasium.com/dresende/node-memorandum.png)](https://gemnasium.com/dresende/node-memorandum)
+
 Simple logging utility with all the bells and whistles.
 
 ### Features
