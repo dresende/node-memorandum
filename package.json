@@ -1,14 +1,21 @@
 {
-	"name"         : "memorandum",
-	"version"      : "0.1.0",
-	"description"  : "Simple logging utility with all the bells and whistles",
-	"main"         : "index.js",
-	"keywords"     : [ "log", "memo" ],
-	"author"       : "Diogo Resende <dresende@thinkdigital.pt>",
-	"license"      : "MIT",
+	"name"        : "memorandum",
+	"version"     : "0.1.1",
+	"description" : "Simple logging utility with all the bells and whistles",
+	"main"        : "index.js",
+	"keywords"    : [ "log", "memo" ],
+	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+	"license"     : "MIT",
+	"repository"  : {
+		"type" : "git",
+		"url"  : "https://github.com/dresende/memorandum.git"
+	},
+	"bugs": {
+		"url" : "https://github.com/dresende/memorandum/issues"
+	},
 	"dependencies" : {
 		"ansi"            : "0.3.x",
-		"moment-timezone" : "0.2.x",
+		"moment-timezone" : "0.3.x",
 		"traceback"       : "0.3.x"
 	}
 }
