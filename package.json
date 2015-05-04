@@ -1,6 +1,6 @@
 {
 	"name"        : "memorandum",
-	"version"     : "0.1.1",
+	"version"     : "0.1.2",
 	"description" : "Simple logging utility with all the bells and whistles",
 	"main"        : "index.js",
 	"keywords"    : [ "log", "memo" ],
